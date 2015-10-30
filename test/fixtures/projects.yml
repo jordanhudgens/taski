@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  percent_complete: 9.99
+
+two:
+  title: MyString
+  description: MyText
+  percent_complete: 9.99
