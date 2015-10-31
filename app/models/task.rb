@@ -5,6 +5,8 @@ class Task < ActiveRecord::Base
 
   scope :completed, -> { where(completed: true) }
 
+  mount_uploader :task_file, TaskFileUploader
+
   def mark_completed?
     self.completed == true
   end
