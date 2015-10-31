@@ -19,6 +19,8 @@ This application was built for the Ruby on Rails Foundations course.
 
 * Integrate Postgres for the production database
 
+* Integrate config variables on Heroku
+
 * Push your master branch from GitHub to your Heroku application
 
 * Run rake db:migrate
