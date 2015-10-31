@@ -1,6 +1,6 @@
 # Taski
 
-p This application is the application built for the Ruby on Rails Foundations course.
+This application was built for the Ruby on Rails Foundations course.
 
 ### For deploying to Heroku
 * Create a local git repository
